@@ -1,4 +1,4 @@
-# Econometric Theory: Join the 100 Day challenge
+# Econometric Theory: The 100-Day Challenge
 You find the code and data used in my playlist on Econometric Theory. Eventually, I will publish the notes as a book in 2024/2025.
 
 # E1: Econometric theory: Join the 100-day challenge
