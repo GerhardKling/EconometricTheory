@@ -25,3 +25,21 @@ In exercises, we calculate conditional expected values and explore the Law of To
 This video explores the implications of strict exogeneity. We show that error terms of the linear regression model cannot be regarded as systematic. They are uncorrelated with all explanatory variables. This fact follows from strict exogeneity.
 
 ## [YouTube video 5](https://youtu.be/ztIBS3Gxqko)
+
+# E6: The data matrix in Python: NumPy
+This video introduces NumPy. We will build a data matrix in Python step-by-step. We import NumPy, and introduce arrays. We learn about indexing and assigning arrays. The attributes shape and size of arrays are explained. Finally, we dive into matrix multiplication.
+
+**Chapters**
+- 0:00 Intro
+- 0:17 NumPy
+- 1:37 Arrays
+- 2:23 Indexing
+- 4:23 Assign Arrays
+- 6:14 Shape and Size
+- 7:38 Matrix Multiplication
+- 8:22 Identity Matrix
+- 9:11 Data Matrix
+
+## [YouTube video 6](https://youtu.be/RKaCn1zr7r4)
+
+
