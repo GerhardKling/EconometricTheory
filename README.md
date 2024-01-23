@@ -42,4 +42,7 @@ This video introduces NumPy. We will build a data matrix in Python step-by-step.
 
 ## [YouTube video 6](https://youtu.be/RKaCn1zr7r4)
 
+# E7: An Into to Synthetic Data in Python
+Obtaining actual data can be expensive, difficult, or even impossible (e.g., in the case of extreme events). In the absence of a data-generating process, synthetic data might be an option. Synthetic data has many applications in testing and machine learning. This video explores synthetic data in Python.
 
+## [YouTube video 7](https://youtu.be/tV-4JfIJxPc)
