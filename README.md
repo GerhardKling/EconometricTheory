@@ -46,3 +46,9 @@ This video introduces NumPy. We will build a data matrix in Python step-by-step.
 Obtaining actual data can be expensive, difficult, or even impossible (e.g., in the case of extreme events). In the absence of a data-generating process, synthetic data might be an option. Synthetic data has many applications in testing and machine learning. This video explores synthetic data in Python.
 
 ## [YouTube video 7](https://youtu.be/tV-4JfIJxPc)
+
+# E8: Linear Regression with Simulated Data in Python
+Understanding linear regression and Ordinary Least Squares (OLS) begins with clear, visual explanations. In this video, we show how to use simulated data to illustrate the core ideas behind linear regression—without the noise and imperfections of real-world datasets. Why use simulation? Real data often violates key model assumptions due to measurement errors, missing values, or non-linearity. That makes it hard to isolate how a method like OLS is supposed to work. By creating clean, artificial data that strictly follows OLS assumptions, we can see the model’s behaviour under ideal conditions. We walk through the complete process: defining a data-generating process, constructing a linear relationship between variables, fitting a regression model, and visualising the results using a scatter plot and fitted line. 
+
+## [YouTube video 8](https://youtu.be/RBb6tMTBRV4)
+
