@@ -52,3 +52,11 @@ Understanding linear regression and Ordinary Least Squares (OLS) begins with cle
 
 ## [YouTube video 8](https://youtu.be/RBb6tMTBRV4)
 
+# E9:The Theory of OLS Regressions: The Loss Function
+Before diving into the technical details of linear algebra, it's essential to grasp the intuition behind fitting a linear model to data. In this video, we break down the basics of Ordinary Least Squares (OLS) regression, a fundamental method in statistics, data science, and econometrics. Using a simple example with one explanatory variable, we guide you through the key question: how do we derive the best-fitting line through a scatterplot of observed data points?
+
+We start by introducing the linear model, where the relationship between the dependent and independent variable is influenced by an error term. The main objective is to estimate the coefficients (intercept and slope) that best describe this relationship. But how do we define "best"? We explore various methods for measuring prediction error, including average error, absolute error, maximum error, and squared error. You’ll learn why the squared error is most commonly used in OLS, as it penalises large deviations and leads to a mathematically convenient solution.
+
+The core of OLS is minimising the sum of squared residuals—the differences between the observed and predicted values. This video walks you through the loss function and sets the stage for solving the minimisation problem analytically. Whether you're a student learning regression for the first time or someone brushing up on core concepts, this video provides a clear, step-by-step explanation of how and why OLS works.
+
+## [YouTube video 9](https://youtu.be/-hPYuxr_7KQ)
