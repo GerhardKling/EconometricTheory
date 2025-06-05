@@ -60,3 +60,14 @@ We start by introducing the linear model, where the relationship between the dep
 The core of OLS is minimising the sum of squared residuals—the differences between the observed and predicted values. This video walks you through the loss function and sets the stage for solving the minimisation problem analytically. Whether you're a student learning regression for the first time or someone brushing up on core concepts, this video provides a clear, step-by-step explanation of how and why OLS works.
 
 ## [YouTube video 9](https://youtu.be/-hPYuxr_7KQ)
+
+# E10: Deriving the Constant Term in Regression Models
+We work through a simple example with one explanatory variable. Starting with the sum of squared residuals, we derive the constant term of a regression equation. We notice that the constant term vanishes if variables are standardised by subtracting their mean.
+
+## [YouTube video 10](https://youtu.be/krSsQHWGRZI)
+
+# E11: Deriving the Slope Coefficient in Regression Models
+We work through a simple example with one explanatory variable. Starting with the sum of squared residuals, we derive the slope coefficient of the regression line. It is useful to standardise variables by subtracting their mean to remove the need for a constant term.
+
+## [YouTube video 11](https://youtu.be/cgMZ4Gw8nJE)
+
